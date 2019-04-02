@@ -52,6 +52,10 @@ void 	set_right (Node node, Node right_node)
 
 int 	get_height (Node node)
 {
+  if(node != 0)
+  {
+    return node -> height;
+  }
   return 0;
 }
 
