@@ -73,6 +73,12 @@ int 	get_balance (Node node)
 }
 
 
-void 	print_postorder (Node node);
+void 	print_postorder (Node node)
+{
+  
+}
 
-void 	unbalanced_insert (Node root, int key);
+void 	unbalanced_insert (Node root, int key)
+{
+
+}
